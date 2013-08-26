@@ -1,0 +1,4 @@
+.env
+.foreman
+.DS_Store
+Procfile
