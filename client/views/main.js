@@ -1,6 +1,6 @@
 if (Meteor.isClient) {
   Template.hello.greeting = function () {
-    return "Welcome to busy-baboon.";
+    return "Welcome to your new meteor app.";
   };
 
   Template.hello.events({

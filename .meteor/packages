@@ -9,3 +9,5 @@ insecure
 preserve-inputs
 bootstrap-3
 coffeescript
+router
+jquery
